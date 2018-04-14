@@ -1,4 +1,4 @@
-<h2>Canvas.<h2>
+<h2>Canvas.</h2>
 <p>Что	такое	Canvas?</p>
 <p>
 В	браузере	Internet Explorer на	заре	времён	была	встроенная	технология	элементов	ActiveX,	
